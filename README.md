@@ -23,7 +23,7 @@ I have internship experience in a public institution, supporting document admini
 
 ## Portfolio
 
-### 📊 Employee Performance & Productivity Analysis
+### 📊 [Employee Performance & Productivity Analysis](https://github.com/Aulia-Akbar/employee-performance-analysis)
 
 An Excel-based project focused on cleaning, organizing, analyzing, and presenting employee performance and productivity data.
 
