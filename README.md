@@ -31,7 +31,7 @@ An Excel-based project focused on cleaning, organizing, analyzing, and presentin
 
 **Focus:** Data Cleaning · Data Processing · Data Analysis · HR Insights
 
-**Key result:** Attrition rate 9,6%-10,8% di semua departemen
+**Key result:** Attrition rate stays within a narrow range of 9.6%–10.8% across all departments, suggesting turnover is not                  concentrated in any single department.
 
 ## Contact
 
