@@ -25,8 +25,15 @@ I have internship experience in a public institution, supporting document admini
 
 ### 📊 Employee Performance & Productivity Analysis
 
-An ongoing Excel-based project focused on cleaning, organizing, analyzing, and presenting employee performance and productivity data.
+An Excel-based project focused on cleaning, organizing, analyzing, and presenting employee performance and productivity data.
 
 **Tools:** Microsoft Excel
 
 **Focus:** Data Cleaning · Data Processing · Data Analysis · HR Insights
+
+**Key result:** Attrition rate 9,6%-10,8% di semua departemen
+
+## Contact
+
+- 📧 [Email] (mailto:hikmalgood56@gmail.com)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/hikmal-aulia-akbar-a31373314
