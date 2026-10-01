@@ -36,4 +36,4 @@ An Excel-based project that cleans, organizes, and analyzes a dataset of 100,000
 ## Contact
 
 - 📧 [Email](mailto:hikmalgood56@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hikmal-aulia-akbar-a31373314
+- 💼 [LinkedIn](https://www.linkedin.com/in/hikmal-aulia-akbar-a31373314)
