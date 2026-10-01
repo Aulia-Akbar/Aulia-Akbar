@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Hikmal Aulia Akbar 👋
 
-<!--
-**Aulia-Akbar/Aulia-Akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Management Graduate | HR & Administration Support | Excel & Data Processing**
 
-Here are some ideas to get you started:
+I am a Management graduate with a concentration in Human Resources Management, interested in HR administration, administrative support, and data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have internship experience in a public institution, supporting document administration and employee-related data processing. I am currently developing my skills in Microsoft Excel and office applications through practical projects.
+
+## Skills
+
+- Microsoft Excel
+  - Data Entry
+  - Sorting & Filtering
+  - Basic Formulas
+  - VLOOKUP / XLOOKUP
+  - Pivot Table
+- HR Administration
+- Employee Data Administration
+- Document Management
+- Data Processing
+- Microsoft Word
+- Microsoft PowerPoint
+
+## Portfolio
+
+### 📊 Employee Performance & Productivity Analysis
+
+An ongoing Excel-based project focused on cleaning, organizing, analyzing, and presenting employee performance and productivity data.
+
+**Tools:** Microsoft Excel
+
+**Focus:** Data Cleaning · Data Processing · Data Analysis · HR Insights
