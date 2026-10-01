@@ -25,7 +25,7 @@ I have internship experience in a public institution, supporting document admini
 
 ### 📊 [Employee Performance & Productivity Analysis](https://github.com/Aulia-Akbar/employee-performance-analysis)
 
-An Excel-based project focused on cleaning, organizing, analyzing, and presenting employee performance and productivity data.
+An Excel-based project that cleans, organizes, and analyzes a dataset of 100,000 employee records, then presents the findings in a dashboard with recommendations.
 
 **Tools:** Microsoft Excel
 
@@ -35,5 +35,5 @@ An Excel-based project focused on cleaning, organizing, analyzing, and presentin
 
 ## Contact
 
-- 📧 [Email] (mailto:hikmalgood56@gmail.com)
-- 💼 [LinkedIn] (https://www.linkedin.com/in/hikmal-aulia-akbar-a31373314
+- 📧 [Email](mailto:hikmalgood56@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hikmal-aulia-akbar-a31373314
